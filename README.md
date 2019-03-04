@@ -1,4 +1,4 @@
-# Ajax Type Ahead
+# Ajax Type-Ahead
 Web app search tool that enables the user to search for city or state and view population. Features 'type-ahead' UI with results filtered by user input in real time. Built as part of 'JavaScript30' with Wes Bos.
 
 Live demo: Coming soon
